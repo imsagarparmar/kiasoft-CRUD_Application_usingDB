@@ -96,7 +96,7 @@ while True:
     print("=========================================")
 
     try:
-        option = int(input("Selecciona una opcion: "))
+        option = int(input("Select any Option : "))
         if(option == 1):
             add_employee()
             time.sleep(1)
